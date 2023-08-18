@@ -15,7 +15,7 @@ Setup Guide: <br>
 4: Open communityScrubber <br>
 5: Run communityScrubber.exe <br>
 6: Enter URL for community collection for zomboid <br>
-7: EX: https://steamcommunity.com/sharedfiles/filedetails/?id=1545816064 <br>
+7: EX FORMAT: https://steamcommunity.com/sharedfiles/filedetails/?id=1545816064 <br>
 8: Click start and await results <br>
 9: Once finished, if program does not close you can close it, then results will be in (modId.txt & workshopId.txt)<br><br>
 
