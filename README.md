@@ -2,9 +2,12 @@
 
 INFO: Community Collection Scrubber designed for hosting zomboid servers that require modid and workshopid
 Designed only for ZOMBOID at the moment.
+<br>
 
-This is a work in progress. So, if you encounter any bugs or problems please open a detailed issue with pictures so I can solve it.
+This is a work in progress. So, if you encounter any bugs or problems please contact me on discord
+yoda.gaming
 
+<br>
 Setup Guide: <br>
 1: Click green Code dropdown box <br>
 2: Download ZIP <br>
