@@ -4,6 +4,7 @@ INFO: Community Collection Scrubber designed for hosting zomboid servers that re
 Designed only for ZOMBOID at the moment.
 <br>
 
+You are an alpha tester. It may not even launch.
 This is a work in progress. So, if you encounter any bugs or problems please contact me on discord
 yoda.gaming
 
