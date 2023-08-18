@@ -6,7 +6,7 @@ Designed only for ZOMBOID at the moment.
 This is a work in progress. So, if you encounter any bugs or problems please open a detailed issue with pictures so I can solve it.
 
 Setup Guide:
-1: Click green Code dropdown box
+1: Click green Code dropdown box <br>
 2: Download ZIP
 3: Unzip folder into whatever folder you want
 4: Open communityScrubber
